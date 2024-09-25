@@ -11,7 +11,7 @@ on:
    
 
 jobs:
-  test:
+  InitialActionTest:
     runs-on: ubuntu-latest
 
     steps:
